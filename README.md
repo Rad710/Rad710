@@ -27,6 +27,9 @@ it runs on.
   **[dyrtransportes_flask](https://github.com/Rad710/dyrtransportes_flask)** — a logistics platform in daily
   production use by a grain-transport company. React + TypeScript + Material UI front end, Flask + MySQL API,
   self-hosted end-to-end with a solo-built CI/CD pipeline.
+- **[financial-news-sentiment](https://github.com/Rad710/financial-news-sentiment)** — final-year thesis
+  (UPTP, 2023) comparing rule-based, machine-learning, and deep-learning sentiment analysis on financial
+  news; PyABSA reached ~90% accuracy. Includes the paper.
 - **[devops](https://github.com/Rad710/devops)** — an isolated Jenkins CI/CD setup using sysbox
   (Docker-in-Docker), SonarQube quality gates, and an InfluxDB/Grafana monitoring stack.
 
